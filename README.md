@@ -2,7 +2,7 @@
 <br>
 <br>
 <h4><b>Prerequisites:</b></h4>
-Python 8.X
+Python 3.8.X
 <br>
 OS Windows
 <br>
@@ -56,4 +56,4 @@ run: bench_venv\Scripts\Activate.ps1
 <br>
 run: python web_scraping2.py
 <br>
-Please note that python.exe of any version later than 8.0 must exist in your PATH variable.
+Please note that python.exe of any version later than 3.8.0 must exist in your PATH variable.
